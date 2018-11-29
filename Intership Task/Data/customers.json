@@ -1,0 +1,24 @@
+﻿{
+  "data": [
+    {
+      "name": "UAB Hostinger",
+      "isVATPayer": false,
+      "country": "Japan",
+      "address": "Savanoriu pr, 121a, Kaunas"
+    },
+    {
+      "name": "UAB Kauno grudai",
+      "isVATPayer": false,
+      "country": "Japan",
+      "address": "Savanoriu pr, 121a, Kaunas"
+    },
+    {
+      "name": "UAB Vilniaus grudai",
+      "isVATPayer": true,
+      "country": "Estonia",
+      "address": "Savanoriu pr, 121a, Kaunas"
+    }
+  ]
+}
+
+    

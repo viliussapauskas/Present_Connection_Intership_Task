@@ -1,0 +1,20 @@
+﻿{
+  "data": [
+    {
+      "item": "Company web page",
+      "cost": 700
+    },
+    {
+      "item": "Company application",
+      "cost": 950
+    },
+    {
+      "item": "Front end for official page",
+      "cost": 1000
+    },
+    {
+      "item": "Calculation system",
+      "cost": 2500
+    }
+  ]
+}

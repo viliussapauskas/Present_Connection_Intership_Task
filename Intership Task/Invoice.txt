@@ -1,0 +1,21 @@
+        SASKAITA FAKTURA
+
+        Kliento duomenys
+|*Pavadinimas: UAB Vilniaus grudai       | 
+|*Valstybė: Estonia                      |
+|*Adresas: Savanoriu pr, 121a, Kaunas    |
+
+
+        Pardavėjo duomenys
+|*Pavadinimas: NFQ                       | 
+|*Valstybė: Estonia                      |
+|*Adresas: Taikos pr. 7a, Kaunas         |
+
+
+        Sutarties duomenys
+|Prekės pavadinimas: Front end for official page |
+|Kaina be PVM: 1000                      |
+|PVM Tarifas (%): 20                     |
+|PVM suma: 200                           |
+|Kaina su PVM mokęsčiu: 1200             |
+

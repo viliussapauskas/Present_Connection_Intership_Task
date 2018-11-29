@@ -1,0 +1,17 @@
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\Intership_task.tests.deps.json
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\Intership_task.tests.runtimeconfig.json
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\Intership_task.tests.runtimeconfig.dev.json
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\Intership_task.tests.dll
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\Intership Task.dll
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\Intership Task.pdb
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\obj\Debug\netcoreapp2.1\Intership_task.tests.csprojAssemblyReference.cache
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\obj\Debug\netcoreapp2.1\Intership_task.tests.csproj.CoreCompileInputs.cache
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\obj\Debug\netcoreapp2.1\Intership_task.tests.AssemblyInfoInputs.cache
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\obj\Debug\netcoreapp2.1\Intership_task.tests.AssemblyInfo.cs
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\obj\Debug\netcoreapp2.1\Intership_task.tests.csproj.CopyComplete
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\bin\Debug\netcoreapp2.1\Intership_task.tests.pdb
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\obj\Debug\netcoreapp2.1\Intership_task.tests.dll
+C:\Users\Vilius\source\repos\Intership Task\XUnitTestProject\obj\Debug\netcoreapp2.1\Intership_task.tests.pdb

@@ -1,0 +1,23 @@
+﻿{
+  "data": [
+    {
+      "name": "Present Connection",
+      "isVATPayer": true,
+      "country": "Japan",
+      "address": "Jonavos g. 7a, Kaunas"
+    },
+    {
+      "name": "Present Connection Belgium",
+      "isVATPayer": false,
+      "country": "Belgium",
+      "address": "Briusel"
+    },
+    {
+      "name": "NFQ",
+      "isVATPayer": true,
+      "country": "Estonia",
+      "address": "Taikos pr. 7a, Kaunas"
+    }
+  ]
+
+}

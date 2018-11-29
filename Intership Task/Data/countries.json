@@ -1,0 +1,151 @@
+﻿{
+  "data": [
+    {
+      "name": "Austria",
+      "rates": 20.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Belgium",
+      "rates": 21.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Bulgaria",
+      "rates": 20.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Cyprus",
+      "rates": 19.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Denmark",
+      "rates": 25.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Germany",
+      "rates": 19.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Estonia",
+      "rates": 20.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Greece",
+      "rates": 24.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Spain",
+      "rates": 21.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Finland",
+      "rates": 24.00,
+      "isInEurope": true
+    },
+    {
+      "name": "France",
+      "rates": 20.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Croatia",
+      "rates": 25.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Italy",
+      "rates": 22.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Latvia",
+      "rates": 21.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Lithuania",
+      "rates": 21.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Luxembourg",
+      "rates": 17.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Hungary",
+      "rates": 27.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Ireland",
+      "rates": 23.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Netherlands",
+      "rates": 21.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Poland",
+      "rates": 23.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Portugal",
+      "rates": 23.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Romania",
+      "rates": 19.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Slovenia",
+      "rates": 22.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Sweden",
+      "rates": 25.00,
+      "isInEurope": true
+    },
+    {
+      "name": "United Kingdom",
+      "rates": 20.00,
+      "isInEurope": true
+    },
+    {
+      "name": "Argentina",
+      "rates": 18.00,
+      "isInEurope": false
+    },
+    {
+      "name": "USA",
+      "rates": 24.00,
+      "isInEurope": false
+    },
+    {
+      "name": "China",
+      "rates": 25.00,
+      "isInEurope": false
+    },
+    {
+      "name": "Japan",
+      "rates": 15.00,
+      "isInEurope": false
+    }
+
+
+  ]
+}

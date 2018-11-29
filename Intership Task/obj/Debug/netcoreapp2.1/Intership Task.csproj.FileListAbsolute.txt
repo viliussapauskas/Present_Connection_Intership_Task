@@ -1,0 +1,22 @@
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.csproj.CoreCompileInputs.cache
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.AssemblyInfoInputs.cache
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.AssemblyInfo.cs
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.deps.json
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.runtimeconfig.json
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.runtimeconfig.dev.json
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.dll
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.pdb
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.dll
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.pdb
+C:\Users\Vilius\source\repos\Intership Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.csprojAssemblyReference.cache
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.deps.json
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.runtimeconfig.json
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.runtimeconfig.dev.json
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.dll
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\bin\Debug\netcoreapp2.1\Intership Task.pdb
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.csprojAssemblyReference.cache
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.csproj.CoreCompileInputs.cache
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.AssemblyInfoInputs.cache
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.AssemblyInfo.cs
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.dll
+C:\Users\Vilius\Documents\GitHub\Present_Connection_Intership_Task\Intership Task\obj\Debug\netcoreapp2.1\Intership Task.pdb

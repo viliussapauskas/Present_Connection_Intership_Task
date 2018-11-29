@@ -13,7 +13,7 @@
 
 
         Sutarties duomenys
-|Prekės pavadinimas: Front end for official page |
+|Prekės pavadinimas: Online web game     |
 |Kaina be PVM: 1000                      |
 |PVM Tarifas (%): 20                     |
 |PVM suma: 200                           |
